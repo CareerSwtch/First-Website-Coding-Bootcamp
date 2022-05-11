@@ -91,6 +91,10 @@ a:hover {
   text-decoration: underline;
 }
 
+.skill-table {
+  border-spacing: 25px;
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
